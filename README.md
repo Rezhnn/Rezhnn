@@ -47,6 +47,8 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rezhnn&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+> 🔒 *Most of my work lives in private repos — client projects are intentionally kept private and will never be public. The graph doesn't show the full picture.*
+
 </div>
 
 ---
