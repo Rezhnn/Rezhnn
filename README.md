@@ -18,13 +18,13 @@
 
 - 🌏 Based in **Kabupaten Bandung, West Java, Indonesia**
 - 💼 Freelance web developer operating as **Muhammad Annas Ibrahim**
-- 🎓 Software Engineering student @ **SMK Al-Marwah Pameungpeuk** (RPL)
+- 🎓 Software Engineering student @ **SMK Al-Marwah Pameungpeuk**
 - 🤖 Currently exploring **AI-assisted development tooling**
 - 📬 Open for freelance projects — feel free to reach out!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack I Mainly Use
 
 **Frontend**
 
